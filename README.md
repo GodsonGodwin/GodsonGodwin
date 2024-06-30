@@ -40,10 +40,8 @@
 <!-- About Section -->
  ## About me 😇
  <p>
-<!-- <img align="right" border="10px solid #FFF" style="border-radius: 10; border: 2 solid #000;" width="350" src="https://github.com/GodsonGodwin/GodsonGodwin/assets/90482543/933a99ae-3049-4b9a-bc11-bc26e97935d2" alt="Profile" /> -->
+<img align="right" width="350"   src="https://github.com/GodsonGodwin/GodsonGodwin/assets/90482543/89844dcc-0823-40ed-b840-9c59fd1540cf" alt="Profile" /> 
 
- 
-  
 
 💪 &emsp; I’m currently working on School Management Software(LMS) <br/><br/>
 ✍ &emsp; I’m currently learning Node.js, express and mongoDB <br/><br/>
@@ -79,10 +77,16 @@
 -->
 
 ## Stats
-<!-- GITHUB STREAK & Contribution -->
+<!-- GITHUB STREAK  -->
 <p align="center">
-  <a href="https://github.com/GodsonGodwin"><img height="192px" width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=GodsonGodwin&theme=radical&border=7F3FBF&background=0D1117" alt="Godson Godwin's GitHub streak"/></a> 
-  <a href="https://github.com/GodsonGodwin"><img height="192px" width="58%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GodsonGodwin&theme=radical&border=7F3FBF&background=0D1117" alt="Godson's GitHub Contribution"/></a>
+  <a href="https://github.com/GodsonGodwin"><img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=GodsonGodwin&theme=radical&border=7F3FBF&background=0D1117" alt="Godson Godwin's GitHub streak"/></a> 
+</p>
+
+<br>
+
+<!-- GITHUB   Contribution -->
+<p align="center">
+  <a href="https://github.com/GodsonGodwin"><img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GodsonGodwin&theme=radical&border=7F3FBF&background=0D1117" alt="Godson's GitHub Contribution"/></a>
 </p>
 
 <br>
@@ -106,7 +110,7 @@
 ## Trophy
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=GodsonGodwin&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews"><img src="https://github-profile-trophy.vercel.app/?username=GodsonGodwin&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
+<img src="https://github-profile-trophy.vercel.app/?username=GodsonGodwin&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest"><img src="https://github-profile-trophy.vercel.app/?username=GodsonGodwin&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Followers">
  </div>
 
  <br>
