@@ -28,10 +28,10 @@
  <a href="#website" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="godson godwin" />
  </a>
- <a href="#linkedIn" target="_blank">
+ <a href="https://www.linkedin.com/in/benjamin-godwin-a20b73171/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="godson godwin"/>
  </a>
- <a href="#twitter" target="_blank">
+ <a href="https://twitter.com/IAmGodsonGodwin" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="godson godwin" />
  </a>
 </p>
