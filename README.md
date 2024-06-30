@@ -79,20 +79,10 @@
 -->
 
 ## Stats
-<!-- GITHUB STREAK -->
+<!-- GITHUB STREAK & Contribution -->
 <p align="center">
-  <a href="https://github.com/GodsonGodwin">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=GodsonGodwin&theme=radical&border=7F3FBF&background=0D1117" alt="Godson Godwin's GitHub streak"/>
-  </a>
-</p>
-
-<br>
-
-<!-- GITHUB CONTRIBUTION -->
-<p align="center">
-  <a href="https://github.com/GodsonGodwin">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GodsonGodwin&theme=radical" alt="Godson's GitHub Contribution"/>
-  </a>
+  <a href="https://github.com/GodsonGodwin"><img height="192px" width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=GodsonGodwin&theme=radical&border=7F3FBF&background=0D1117" alt="Godson Godwin's GitHub streak"/></a> 
+  <a href="https://github.com/GodsonGodwin"><img height="192px" width="58%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GodsonGodwin&theme=radical&border=7F3FBF&background=0D1117" alt="Godson's GitHub Contribution"/></a>
 </p>
 
 <br>
@@ -101,7 +91,7 @@
 
 <a> 
     <a href="https://github.com/GodsonGodwin"><img alt="Godson's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=GodsonGodwin&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/GodsonGodwin"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=GodsonGodwin&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/GodsonGodwin"><img alt="Godon's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=GodsonGodwin&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
