@@ -43,15 +43,15 @@
 <img align="right" width="350"   src="https://github.com/GodsonGodwin/GodsonGodwin/assets/90482543/89844dcc-0823-40ed-b840-9c59fd1540cf" alt="Profile" /> 
 
 
-💪 &emsp; I’m currently working on School Management Software(LMS) <br/><br/>
-✍ &emsp; I’m currently learning Node.js, express and mongoDB <br/><br/>
-📝 &emsp; I regularly write articles on <b>Beyond The Frontend</b> <br/><br/>
+💪&emsp; I’m currently working on School Management Software(LMS) <br/><br/>
+✍&emsp; I’m currently learning Node.js, express and mongoDB <br/><br/>
+📝&emsp; I regularly write articles on <b>Beyond The Frontend</b> <br/><br/>
 ✌️ &emsp;  Enjoy writing codes and sharing knowledge <br/><br/>
-🖌 &emsp;  I love bringing pixels of creativity into designs <br/><br/>
-❤️ &emsp; I love exploring new ideas <br/><br/>
-⚽ &emsp; I’m a football fanatics <br/><br/>
-🍿 &emsp; I love watching tactical analysis after each match <br/><br/>
-😁 &emsp; Fun fact - I always think I am stuck <br/><br/>
+🖌&emsp;  I love bringing pixels of creativity into designs <br/><br/>
+❤️&emsp; I love exploring new ideas <br/><br/>
+⚽&emsp; I’m a football fanatics <br/><br/>
+🍿&emsp; I love watching tactical analysis after each football match <br/><br/>
+😁&emsp; Fun fact - I always think I am stuck <br/><br/>
 </p>
 
 ## Flair :muscle:
