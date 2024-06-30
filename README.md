@@ -1,15 +1,116 @@
-  Hi, there 👋 <br>
-  <b> I'm Godson Godwin </b> <hr>
- A very optimistic and passionate individual who is interested in exploiting new ideas and building cool stuff. Dedicated to self improvement, enthusiastic and curious as to how things work. My character demands me to seek new challenges and always want to push myself to become better in my profession 
+<!--
+<h2 align="center">
+  Welcome to Al Siam World!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h2>
+-->
 
-I am a highly motivated, detailed oriented and progress-focused Front-End Web Developer with adept skills in designing and integrating end to end user interface and super creatively good in UI designs.
 
-Seeking to work in an environment that will challenge me to learn further; while allowing me to contribute to the continual growth and improve organizational ability to exceed corporate goals of the organization. I am also open to work in a resource environment.
+<a href="https://komarev.com/ghpvc/?username=alsiam">
+  <img align="right" src="https://komarev.com/ghpvc/?username=alsiam&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+</a>
 
 
-<b>Resume: </b>(https://github.com/GodsonGodwin/GodsonGodwin/files/9389022/BENJAMIN.GODWIN.S.RESUME-1.pdf)
-<!---
 
-GodsonGodwin/GodsonGodwin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
+
+<!-- Intro  -->
+<h3 align="center">
+        <samp>&gt; Hola 👋, I am
+                <b><a target="_blank" href="https://alsiam.com">Godson Godwin</a></b>
+        </samp>
+</h3>
+
+
+<p align="center"> 
+  <samp>
+    「 I am a frontend software engineer 」
+    <br>
+    <br>
+  「 Passionate about crafting user-centric and engaging designs 」
+    <br>
+    <br>
+  </samp>
+</p>
+
+<p align="center">
+ <a href="#website" target="blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="godson godwin" />
+ </a>
+ <a href="#linkedIn" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="godson godwin"/>
+ </a>
+ <a href="#twitter" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="godson godwin" />
+ </a>
+</p>
+<br />
+
+<!-- About Section -->
+ ## About me 😇
+ <p>
+ <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+  
+💪 &emsp; I’m currently working on School Management Software(LMS) <br/><br/>
+✍ &emsp; I’m currently learning Node.js, express and mongoDB <br/><br/>
+📝 &emsp; I regularly write articles on <b>Beyond The Frontend</b> <br/><br/>
+✌️ &emsp;  Enjoy writing codes and sharing knowledge <br/><br/>
+🖌 &emsp;  I love bringing pixels of creativity into designs <br/><br/>
+❤️ &emsp; I love exploring new ideas <br/><br/>
+⚽ &emsp; I’m a football fanatics <br/><br/>
+🍿 &emsp; I love watching tactical analysis after each match <br/><br/>
+😁 &emsp; Fun fact - I always think I am stuck <br/><br/>
+</p>
+
+<br/>
+<br/>
+<br/>
+
+## Flair :muscle:
+
+**Know-How**
+
+<img title="TensorFlow" alt="TensorFlow" width="40px" src="https://github.com/GodsonGodwin/GodsonGodwin/assets/90482543/3efc8737-2a86-4a45-a829-f18a7630c280">|<img title="TensorFlow" alt="TensorFlow" width="40px" src="https://github.com/GodsonGodwin/GodsonGodwin/assets/90482543/88773eba-1713-4f90-b7f8-dd264376fd2d">|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img alt="Typescript" title="Typescript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png">|<img title="TensorFlow" alt="TensorFlow" width="40px" src="https://github.com/GodsonGodwin/GodsonGodwin/assets/90482543/396485f6-45ec-477b-8215-83655f1f8729">|<img title="TensorFlow" alt="TensorFlow" width="40px" src="https://github.com/GodsonGodwin/GodsonGodwin/assets/90482543/5ed9f0dd-b509-4452-a11b-98f41da942d5">|<img title="TensorFlow" alt="TensorFlow" width="40px" src="https://github.com/GodsonGodwin/GodsonGodwin/assets/90482543/a0dec96c-9772-4611-afa1-07ddedadb808">
+|--|--|--|--|--|--|--|
+<img title="TensorFlow" alt="TensorFlow" width="40px" src="https://github.com/GodsonGodwin/GodsonGodwin/assets/90482543/b1aeaad3-f660-4d33-ac1e-3e8e570c9254">|<img title="TensorFlow" alt="TensorFlow" width="40px" src="https://github.com/GodsonGodwin/GodsonGodwin/assets/90482543/b5ddce5e-19e4-400b-9537-0c71177c12cb">|<img title="TensorFlow" alt="TensorFlow" width="40px" src="https://github.com/GodsonGodwin/GodsonGodwin/assets/90482543/6b1a7903-f922-442b-8591-d12c06b321e0">|<img title="TensorFlow" alt="TensorFlow" width="40px" src="https://github.com/GodsonGodwin/GodsonGodwin/assets/90482543/f140acff-c57f-4e08-a65e-c7486192e54a">|<img title="TensorFlow" alt="TensorFlow" width="40px" src="https://github.com/GodsonGodwin/GodsonGodwin/assets/90482543/cc9adf0d-48d0-44bf-ad7e-7442e1ca4044">|<img title="TensorFlow" alt="TensorFlow" width="40px" src="https://github.com/GodsonGodwin/GodsonGodwin/assets/90482543/7fe438f0-dfa9-4d9d-8ff0-6fe4b6f7df82">|<img title="TensorFlow" alt="TensorFlow" width="40px" src="https://github.com/GodsonGodwin/GodsonGodwin/assets/90482543/3ea13dc2-61c8-4aa3-aef3-7097def748a7">|<img title="TensorFlow" alt="TensorFlow" width="40px" src="https://github.com/GodsonGodwin/GodsonGodwin/assets/90482543/eaa619d3-28ac-4649-b2de-7fc0242055a8">|
+<img title="git" alt="git" width="40px" src="https://github.com/GodsonGodwin/GodsonGodwin/assets/90482543/eb437609-d062-4b4c-8fad-b41239bc8e2c">|<img title="TensorFlow" alt="TensorFlow" width="40px" src="https://github.com/GodsonGodwin/GodsonGodwin/assets/90482543/c9948d0d-8f89-4361-8e4c-23054bb34347">|<img title="TensorFlow" alt="TensorFlow" width="40px" src="https://github.com/GodsonGodwin/GodsonGodwin/assets/90482543/77a06908-9401-4aa0-9adb-45d6a05677a1">|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="git" alt="git" width="40px" src="https://github.com/GodsonGodwin/GodsonGodwin/assets/90482543/0b66f407-99cf-48f3-bb14-f8c13b69d79a">|<img title="git" alt="git" width="40px" src="https://github.com/GodsonGodwin/GodsonGodwin/assets/90482543/c301bc9c-ea0b-4a07-9490-18ddc5d259e0">|<img title="git" alt="git" width="40px" src="https://github.com/GodsonGodwin/GodsonGodwin/assets/90482543/477b37a7-79ac-4745-8b68-6db8fd713823">
+
+<br/>
+
+<!--
+## Top Open Source -
+[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=GodsonGodwin&repo=lendsqr-fe-test&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/GodsonGodwin/lendsqr-fe-test)
+[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/urfolio)
+[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/web-projects)
+[![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=alsiam&repo=alsiam&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/alsiam/alsiam)
+-->
+<p align="left">
+  <a href="https://github.com/GodsonGodwin?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+</p>
+
+<br/>
+<hr/>
+<br/>
+
+
+
+<p align="center">
+  <a href="https://github.com/alsiam">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=GodsonGodwin&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/alsiam">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GodsonGodwin&theme=radical" alt="Al Siam's GitHub Contribution"/>
+  </a>
+</p>
+
+<a> 
+    <a href="https://github.com/GodsonGodwin"><img alt="Godson's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=GodsonGodwin&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/GodsonGodwin"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=GodsonGodwin&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+
+
+![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=GodsonGodwin&custom_title=Godson%20Godwin's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
