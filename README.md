@@ -79,27 +79,31 @@
 ## Stats
 <!-- GITHUB STREAK  -->
 <p align="center">
-  <a href="https://github.com/GodsonGodwin"><img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=GodsonGodwin&theme=radical&border=7F3FBF&background=0D1117" alt="Godson Godwin's GitHub streak"/></a> 
-</p>
-
-<br>
-
-<!-- GITHUB   Contribution -->
-<p align="center">
-  <a href="https://github.com/GodsonGodwin"><img width="90%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GodsonGodwin&theme=radical&border=7F3FBF&background=0D1117" alt="Godson's GitHub Contribution"/></a>
+  <a href="https://github.com/GodsonGodwin"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=GodsonGodwin&theme=radical&border=7F3FBF&background=0D1117" alt="Godson Godwin's GitHub streak"/></a> 
 </p>
 
 <br>
 
 <!-- GITHUB STATS -->
 
-<a> 
-    <a href="https://github.com/GodsonGodwin"><img alt="Godson's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=GodsonGodwin&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"  width="49.5%"/></a>
-  <a href="https://github.com/GodsonGodwin"><img alt="Godon's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=GodsonGodwin&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"  width="49.5%"/></a>
+<p align="center"> 
+    <a href="https://github.com/GodsonGodwin"><img alt="Godson's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=GodsonGodwin&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"  /></a>
+  
+</p>
   <br/>
-</a>
 
- <br>
+<p align="center">
+  <a href="https://github.com/GodsonGodwin"><img width="50%" alt="Godon's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=GodsonGodwin&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" /></a>
+</p>
+
+<br>
+
+<!-- GITHUB   Contribution -->
+<p align="center">
+  <a href="https://github.com/GodsonGodwin"><img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GodsonGodwin&theme=radical&border=7F3FBF&background=0D1117" alt="Godson's GitHub Contribution"/></a>
+</p>
+
+<br>
 
 <!--GITHUB ACTIVITIES-->
 ![Godson Godson's Graph](https://github-readme-activity-graph.vercel.app/graph?username=GodsonGodwin&custom_title=Godson%20Godwin's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
